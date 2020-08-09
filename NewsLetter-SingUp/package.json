@@ -1,0 +1,16 @@
+{
+  "name": "newsletter-singup",
+  "version": "1.0.0",
+  "description": "Sgn Up web site n which we take the UI email and add to our list and publish the we site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gagan Shrivastava",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
